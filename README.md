@@ -5,15 +5,13 @@
 I am a Data Analyst with experience in medical devices market research. Proficient in data collection, analysis, and visualization, with expertise in developing predictive models for strategic planning. Skilled in identifying patterns and trends to deliver actionable insights that drive business decisions and customer delight. Passionate about helping organizations optimize operations and achieve their goals
 
 ## Skills: 
-* Python
-* EDA
-* ML
-* AI/DL
-* PowerBI
-* SQL
+* Exploratory Data Analysis and Insights
+* Machine Learning
+* Artificial Intelligence
 * Time Series Forecasting
-* MS Azure
 * MLOps
+*  MS Azure
+* PowerBI
 * Healthcare & Market Research 
 
 <h3 align="left">Languages and Tools:</h3>
