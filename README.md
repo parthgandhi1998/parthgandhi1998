@@ -1,6 +1,5 @@
 # Hi there 👋, my name is Parth
 ## Healthcare Researcher & Data Analyst | Pharmacist 
-![Healthcare Researcher & Data Analyst | Pharmacist](https://media.licdn.com/dms/image/D5616AQF_w4mTdSLfVg/profile-displaybackgroundimage-shrink_350_1400/0/1679340249077?e=1697068800&v=beta&t=v7iee_Aw85rMUtDCQhPOKhCqGdvyL9FFO1ea1NnCAxA)
 
 I am a Data Analyst with experience in medical devices market research. Proficient in data collection, analysis, and visualization, with expertise in developing predictive models for strategic planning. Skilled in identifying patterns and trends to deliver actionable insights that drive business decisions and customer delight. Passionate about helping organizations optimize operations and achieve their goals
 
